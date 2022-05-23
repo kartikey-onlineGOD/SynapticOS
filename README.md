@@ -44,7 +44,7 @@ Windows OS to run in .exe format.
 8. PyQt5
 9. Selenium   
 10. Pyglet   
-11. PyQt5.Webwidgets
+11. PyQt5.Webwidgets 
 12.Pymongo 
 13.Threading 
 14.Numpy 
