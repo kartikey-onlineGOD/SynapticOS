@@ -1,5 +1,5 @@
 # SynapticOS
-*Objective of Synapsic* \n
+*Objective of Synapsic* /n
 The Primary objective of Synapsic is to be used as an
 alternative Operating System on Virtual Machines. Synapsic
 can be used as a basic yet aesthetic operating system that
