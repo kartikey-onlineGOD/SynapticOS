@@ -42,12 +42,12 @@ Windows OS to run in .exe format.
 6. Random
 7. Python_weather
 8. PyQt5
-9. Selenium
-10. Pyglet
-11. PyQt5.Webwidgets
-12.Pymongo
-13.Threading
-14.Numpy
+9. Selenium   
+10. Pyglet   
+11. PyQt5.Webwidgets  
+12.Pymongo   
+13.Threading   
+14.Numpy   
 
 **Future of Project**                  
 We plan to developed synapsic into a powerful and efficient
